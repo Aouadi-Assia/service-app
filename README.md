@@ -81,4 +81,4 @@ Ce projet est une application web construite avec le framework Laravel pour dém
 1. Cloner le dépôt
    ```bash
    git clone https://github.com/username/mini-projet-cloud-2025.git
-   cd mini-projet-cloud-2025
+   cd mini-projet-cloud-2025"# service-app" 
